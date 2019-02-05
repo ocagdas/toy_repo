@@ -1,0 +1,1 @@
+/home/ocagdas/companies/tunstall/P032-Source/scripts/ci/git_generic.sh
